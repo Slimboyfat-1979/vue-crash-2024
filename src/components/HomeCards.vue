@@ -1,5 +1,6 @@
 <script setup>
-import Card from '@/components/Card.vue'
+import Card from '@/components/Card.vue';
+import {RouterLink} from 'vue-router';
 </script>
 
 <template>
@@ -38,3 +39,5 @@ import Card from '@/components/Card.vue'
       </div>
     </section>
 </template>
+
+<!-- //1:44 -->
